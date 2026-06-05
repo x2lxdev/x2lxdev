@@ -2,22 +2,22 @@
 
 # 🏰 x2lx.dev
 
-<img src="https://i.pinimg.com/474x/1e/a3/85/1ea385254854323404bbbe8922a779b0.jpg" width="70">
+<img src="https://i.pinimg.com/474x/1e/a3/85/1ea385254854323404bbbe8922a779b0.jpg" width="800">
 
 </div>
 
 ## 🌸 About Me
 
-- 🎓 Étudiant en informatique
+- 🎓 Study in software dev
 - 🌍 France
-- 🎮 Joue principalement à Minecraft
-- 💻 Développeur passionné par le Web et les systèmes
-- 🚀 Toujours en train d'apprendre de nouvelles technologies
+- 🎮 Mainly principaly in mincraft
+- 💻 Develop website and backend -> (Python)
+- 🚀 I'm Always learning new techno
 
-### 📚 J'apprends actuellement
-
-<p>
-   <img src="https://skillicons.dev/icons?i=,python,nodejs" 
+<h1 align="center">Currently learning</h1>
+ 
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=,python,nodejs" />
 </p>
 
 ---
@@ -26,5 +26,3 @@
 
 - Discord : `x2lx.qz`
 - Site web : soon
-
-- Love

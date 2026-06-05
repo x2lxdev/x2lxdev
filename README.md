@@ -25,4 +25,4 @@
 ## 🌐 Contact
 
 - Discord : `x2lx.qz`
-- Site web : soon
+- Site web : https://mytems.blog

@@ -2,7 +2,7 @@
 
 # 🏰 x2lx.dev
 
-<img src="https://i.pinimg.com/474x/1e/a3/85/1ea385254854323404bbbe8922a779b0.jpg" width="800">
+<img src="https://i.pinimg.com/originals/50/99/18/509918b2b60b25cd2d683f9963f0f59a.gif" width="800">
 
 </div>
 

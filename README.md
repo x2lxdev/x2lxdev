@@ -24,5 +24,6 @@
 
 ## 🌐 Contact
 
-- Discord : `x2lx.qz`
+- Discord : `utn8
+`
 - Site web : https://mytems.blog
